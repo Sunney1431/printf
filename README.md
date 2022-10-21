@@ -247,7 +247,7 @@ Conversion specifiers to handle: d, i, u, o, x, X
 ### Authors
 
 * [Juadebfm](https://www.juadebfm.com) - *Project Team Member* - [Juadebfm](https://github.com/Juadebfm)
-* [abcdef](https://www.) - *Project Team Member* - [abc defgh](https://github.com/)
+* [Sunney1431](https://www.) - *Project Team Member* - [Sunney1431](https://github.com/Sunney1431)
 
 ### Acknowledgments
 
